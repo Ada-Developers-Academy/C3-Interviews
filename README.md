@@ -4,7 +4,7 @@
 In this directory, you will find:  
 
 - Schedules based on day and company (.xlsx format)
-- [student resumes and bios](/resumes-and-bios.markdown)
+- [student resumes and bios](/bios-and-resumes.markdown)
 - [suggested interview questions](/suggested-questions.markdown)
 - Ruby-based search tool (in progress)
 
